@@ -4,8 +4,6 @@ function Demo1()
     let name="klu"
     let status=true
 
-
-
     return (
         <div>
         <h3> Functional Component</h3>
