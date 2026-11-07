@@ -1,0 +1,22 @@
+.counter-demo{
+    text-align:center;
+    width:300px;
+    margin:40px auto;
+    padding:20px;
+    border:2px solid brown;
+    background:#ffffff;
+    box-shadow:0 4px 15px rgba(0,0,0,10);
+}
+.btn{
+    padding:10px 20px;
+    margin:5px;
+    border:none;
+    border-radius:10px;
+    background:blue;
+    color:black;
+    font-weight:bolder;
+    cursor:pointer;
+}
+.btn:hover{
+    background:grey;
+}
