@@ -7,6 +7,7 @@ import Demo1 from './pages/Demo1'
 import Demo10 from './pages/Demo10'
 import Demo11 from './pages/Demo11'
 import Demo12 from './pages/Demo12'
+import Demo13 from './pages/Demo13'
 import Demo2 from './pages/Demo2'
 import Demo3 from './pages/Demo3'
 import Demo4 from './pages/Demo4'
@@ -40,6 +41,7 @@ function App() {
     <Demo10/>
     <Demo11/>
     <Demo12/>
+    <Demo13/>
     </div>
 
     
